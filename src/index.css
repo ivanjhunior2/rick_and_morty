@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://th.bing.com/th/id/R.9a260ee6144fde0e28abfac9104c81ab?rik=IwaNdN6NpZMCPQ&riu=http%3a%2f%2fst.gde-fon.com%2fwallpapers_original%2f479115_kosmos_zvezdy_zvezdnoe-skoplenie_tumannost_2560x1487_www.Gde-Fon.com.jpg&ehk=eyYA9JQX7y78DSd94RHNSrGJD7nFLg3jDOs02Ujb8%2fE%3d&risl=&pid=ImgRaw&r=0");
+  background-size: cover;
 }
 
 code {
